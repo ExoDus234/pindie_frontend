@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://spectrefrontend.nomoredomainswork.ru/api';
+export const BASE_URL = 'http://spectrebackend.nomoredomainswork.ru/api';
 
 export const endpoints = {
     games: `${BASE_URL}/games`,
